@@ -41,6 +41,13 @@ and there will be need of a website for the administration instructor  to check 
 8. website
 
 ***
+### Pogram used
+
+- AtmelStudio : c programming for embbeded
+- Tera Term   : Console terminal for embbeded testing
+- Visualstudio: for fullstack programing
+
+***
 
 ### A Key HIPO
 
@@ -69,8 +76,11 @@ https://www.sparkfun.com/datasheets/LCD/HD44780.pdf
 
 ##### Usefull information
 
-https://www.electronicwings.com/avr-atmega/lcd16x2-interfacing-with-atmega16-32
-
+http://maxembedded.com/2011/06/lcd-interfacing-with-avr/ <br>
+this is link referrence will be the closest one to the one we will use on the project with a lcd library, information about installation, and coding sample for our lcd will be here  
+<br>
+https://www.electronicwings.com/avr-atmega/lcd16x2-interfacing-with-atmega16-32 <br>
+This link is an advance version, with the basic  on how the lcd is build without the library  
 
 
 #### TODO
