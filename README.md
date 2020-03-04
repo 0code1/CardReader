@@ -51,16 +51,16 @@ and there will be need of a website for the administration instructor  to check 
 ### Database
 
 #### TODO
-- [] Check if there is any DB or AD that have the card record
-- [] How to connect to the AD/DB
+- [ ] Check if there is any DB or AD that have the card record
+- [ ] How to connect to the AD/DB
 
 ***
 
 ### LCD 
 
 #### TODO
-- [] Flow Shart
-- [] Display the  menu on keypad click:
+- [ ] Flow Shart
+- [ ] Display the  menu on keypad click:
 - Lager
 - Faverihallen
 - Oslo
@@ -69,27 +69,27 @@ and there will be need of a website for the administration instructor  to check 
 - Madrid
 - Post
 - Andet
-- [] lock function when key on use
+- [ ] lock function when key on use
 
 ***
 
 ### Keypad
 
 #### TODO
-- [] Flow Shart
-- [] Make it work with interrupt
-- [] Return a string instead of a char
+- [ ] Flow Shart
+- [ ] Make it work with interrupt
+- [ ] Return a string instead of a char
 
 ***
 
 ### RFID
 
 #### TODO
-- [] Check how is work
-- [] Test with a skole card
-- [] Flow Shart
-- [] Try to communicate with AD/DB
-- [] Manipulate the receive data
-- [] 
+- [ ] Check how is work
+- [ ] Test with a skole card
+- [ ] Flow Shart
+- [ ] Try to communicate with AD/DB
+- [ ] Manipulate the receive data
+- [ ] 
 
 
