@@ -84,6 +84,8 @@ This link is an advance version, with the basic  on how the lcd is build without
 
 
 #### TODO
+- [x] DataSheet
+- [ ] Interfacing Diagram
 - [ ] Documentation
 
 
