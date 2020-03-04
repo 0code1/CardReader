@@ -50,6 +50,8 @@ and there will be need of a website for the administration instructor  to check 
 
 ### Database
 
+***
+
 #### TODO
 - [ ] Check if there is any DB or AD that have the card record
 - [ ] How to connect to the AD/DB
@@ -59,13 +61,28 @@ and there will be need of a website for the administration instructor  to check 
 
 ### LCD 
 
+***
+
+##### DATASHEET
+
+https://www.sparkfun.com/datasheets/LCD/HD44780.pdf
+
+##### Usefull information
+
+https://www.electronicwings.com/avr-atmega/lcd16x2-interfacing-with-atmega16-32
+
+
+
 #### TODO
-- [ ] Flow Shart
-- [ ] HIPO
+- [ ] Documentation
+
+
 
 ***
 
 ### Keypad
+
+***
 
 #### TODO
 
@@ -88,6 +105,8 @@ and there will be need of a website for the administration instructor  to check 
 ***
 
 ### RFID
+
+***
 
 #### TODO
 
