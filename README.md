@@ -54,42 +54,52 @@ and there will be need of a website for the administration instructor  to check 
 - [ ] Check if there is any DB or AD that have the card record
 - [ ] How to connect to the AD/DB
 
+
 ***
 
 ### LCD 
 
 #### TODO
 - [ ] Flow Shart
-- [ ] Display the  menu on keypad click:
-- Lager
-- Faverihallen
-- Oslo
-- X-feldt
-- Møbellageret
-- Madrid
-- Post
-- Andet
-- [ ] lock function when key on use
+- [ ] HIPO
 
 ***
 
 ### Keypad
 
 #### TODO
+
+- [ ] HIPO
 - [ ] Flow Shart
 - [ ] Make it work with interrupt
 - [ ] Return a string instead of a char
+- [ ] Display the  menu on keypad click:
+    - Lager
+    - Faverihallen
+    - Oslo
+    - X-feldt
+    - Møbellageret
+    - Madrid
+    - Post
+    - Andet
+- [ ] lock function when key on use
+
 
 ***
 
 ### RFID
 
 #### TODO
+
 - [ ] Check how is work
 - [ ] Test with a skole card
+- [ ] HIPO
 - [ ] Flow Shart
 - [ ] Try to communicate with AD/DB
-- [ ] Manipulate the receive data
-- [ ] 
+- [ ] Check database for card
+- [ ] Get user name of the card ID code
+- [ ] desplay username on the LCD
+- [ ] BLock other user to use card while the key is out
+- [ ] Unblock when the same card is rescaned
 
 
