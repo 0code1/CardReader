@@ -44,7 +44,7 @@ and there will be need of a website for the administration instructor  to check 
 
 ### A Key HIPO
 
-![akeyhipo](https://git.pcsyd.dk/Tran/an-gle/blob/master/AKeyHipo.png)
+![akeyhipo](AKeyHipo.png)
 
 
 
