@@ -55,6 +55,18 @@ and there will be need of a website for the administration instructor  to check 
 
 ***
 
+### ArDuino 2560
+
+#### Datasheet 
+
+https://ww1.microchip.com/downloads/en/devicedoc/atmel-2549-8-bit-avr-microcontroller-atmega640-1280-1281-2560-2561_datasheet.pdf
+
+#### Arduino Pinout Diagrram
+
+![Pinout](MEGApinout.jpg)
+
+***
+
 ### Database
 
 ***
