@@ -83,9 +83,14 @@ https://www.electronicwings.com/avr-atmega/lcd16x2-interfacing-with-atmega16-32 
 This link is an advance version, with the basic  on how the lcd is build without the library  
 
 
+#### Interfacing Diagram
+
+![IDiagram](LCDdiagram.png)
+
 #### TODO
 - [x] DataSheet
 - [ ] Interfacing Diagram
+- [ ] Wiring diagram
 - [ ] Documentation
 
 
