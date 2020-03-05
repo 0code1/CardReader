@@ -48,13 +48,7 @@ and there will be need of a website for the administration instructor  to check 
 - Visualstudio: for fullstack programing
 
 ***
-
-### A Key HIPO
-
-![akeyhipo](AKeyHipo.png)
-
-***
-### Importatnt informattion and documentation
+## Important informattion and documentation
 ***
 #### Arduino Datasheet 
 
@@ -75,6 +69,16 @@ this is link referrence will be the closest one to the one we will use on the pr
 <br>
 https://www.electronicwings.com/avr-atmega/lcd16x2-interfacing-with-atmega16-32 <br>
 This link is an advance version, with the basic  on how the lcd is build without the library  
+
+
+***
+## Start Project
+***
+
+### Project HIPO Diagram
+
+![akeyhipo](AKeyHipo.png)
+
 
 ***
 
