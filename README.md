@@ -85,12 +85,20 @@ This link is an advance version, with the basic  on how the lcd is build without
 
 #### Interfacing Diagram
 
-![IDiagram](LCDdiagram.png)
+![IDiagram](LCD_diagram.png)
+
+This picture is from Ilearn, the pin to the adruino are not like in the picture 
+
+#### Wiring Diagram
+
+![WDiagram](Wiring.png)
+
+This picture is from Ilearn, the pin use in this picture are different from the one we are using take that in mind
 
 #### TODO
 - [x] DataSheet
-- [ ] Interfacing Diagram
-- [ ] Wiring diagram
+- [x] Interfacing Diagram
+- [x] Wiring diagram
 - [ ] Documentation
 
 
