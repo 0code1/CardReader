@@ -54,16 +54,27 @@ and there will be need of a website for the administration instructor  to check 
 ![akeyhipo](AKeyHipo.png)
 
 ***
-
-### ArDuino 2560
-
-#### Datasheet 
+### Importatnt informattion and documentation
+***
+#### Arduino Datasheet 
 
 https://ww1.microchip.com/downloads/en/devicedoc/atmel-2549-8-bit-avr-microcontroller-atmega640-1280-1281-2560-2561_datasheet.pdf
 
 #### Arduino Pinout Diagrram
 
 ![Pinout](MEGApinout.jpg)
+
+##### LCD DATASHEET
+
+https://www.sparkfun.com/datasheets/LCD/HD44780.pdf
+
+##### LCD Usefull information
+
+http://maxembedded.com/2011/06/lcd-interfacing-with-avr/ <br>
+this is link referrence will be the closest one to the one we will use on the project with a lcd library, information about installation, and coding sample for our lcd will be here  
+<br>
+https://www.electronicwings.com/avr-atmega/lcd16x2-interfacing-with-atmega16-32 <br>
+This link is an advance version, with the basic  on how the lcd is build without the library  
 
 ***
 
@@ -81,19 +92,6 @@ https://ww1.microchip.com/downloads/en/devicedoc/atmel-2549-8-bit-avr-microcontr
 ### LCD 
 
 ***
-
-##### DATASHEET
-
-https://www.sparkfun.com/datasheets/LCD/HD44780.pdf
-
-##### Usefull information
-
-http://maxembedded.com/2011/06/lcd-interfacing-with-avr/ <br>
-this is link referrence will be the closest one to the one we will use on the project with a lcd library, information about installation, and coding sample for our lcd will be here  
-<br>
-https://www.electronicwings.com/avr-atmega/lcd16x2-interfacing-with-atmega16-32 <br>
-This link is an advance version, with the basic  on how the lcd is build without the library  
-
 
 #### Interfacing Diagram
 
