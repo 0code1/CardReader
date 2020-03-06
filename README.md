@@ -87,9 +87,11 @@ This link is an advance version, with the basic  on how the lcd is build without
 ***
 
 #### TODO
+
 - [ ] Check if there is any DB or AD that have the card record
 - [ ] How to connect to the AD/DB
-
+    - [1] Using Python to connect to the Database, and send the sqlstring from there
+    - [2] Using A website to send data to the database
 
 ***
 
@@ -145,7 +147,7 @@ With this library we will be using a 4 bit data instead of a 8 bit that why we w
 
 #### TODO
 
-- [ ] HIPO
+- [x] HIPO
 - [ ] Flow Shart
 - [ ] Make it work with interrupt
 - [ ] Return a string instead of a char
