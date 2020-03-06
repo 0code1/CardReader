@@ -127,13 +127,19 @@ With this library we will be using a 4 bit data instead of a 8 bit that why we w
 - [x] DataSheet
 - [x] Interfacing Diagram
 - [x] Wiring diagram
-- [ ] Documentation
+- [x] Documentation
 
 
 
 ***
 
 ### Keypad
+
+***
+
+#### HIPO
+
+![KeypadHIPO](Billede/Keypad_HIPO.png)
 
 ***
 
