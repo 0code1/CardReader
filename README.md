@@ -109,6 +109,18 @@ This picture is from Ilearn, the pin to the adruino are not like in the picture
 
 This picture is from Ilearn, the pin use in this picture are different from the one we are using take that in mind
 
+#### LCD Documentation
+
+In this project we will be using the **PORT A**  on your arduino with the following Pin:
+
+- pin 0 for DB7
+- pin 1 for DB6
+- pin 2 for DB5
+- pin 3 for DB4
+- pin 4 for RW
+- pin 5 for D/W
+- pin 6 for E
+
 #### TODO
 - [x] DataSheet
 - [x] Interfacing Diagram
