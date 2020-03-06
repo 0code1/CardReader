@@ -56,7 +56,7 @@ https://ww1.microchip.com/downloads/en/devicedoc/atmel-2549-8-bit-avr-microcontr
 
 #### Arduino Pinout Diagrram
 
-![Pinout](MEGApinout.jpg)
+![Pinout](Billede/MEGApinout.jpg)
 
 ##### LCD DATASHEET
 
@@ -77,7 +77,7 @@ This link is an advance version, with the basic  on how the lcd is build without
 
 ### Project HIPO Diagram
 
-![akeyhipo](AKeyHipo.png)
+![akeyhipo](Billede/AKeyHipo.png)
 
 
 ***
@@ -99,13 +99,13 @@ This link is an advance version, with the basic  on how the lcd is build without
 
 #### Interfacing Diagram
 
-![IDiagram](LCD_diagram.png)
+![IDiagram](Billede/LCD_diagram.png)
 
 This picture is from Ilearn, the pin to the adruino are not like in the picture 
 
 #### Wiring Diagram
 
-![WDiagram](Wiring.png)
+![WDiagram](Billede/Wiring.png)
 
 This picture is from Ilearn, the pin use in this picture are different from the one we are using take that in mind
 
