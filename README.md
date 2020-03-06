@@ -82,7 +82,7 @@ This link is an advance version, with the basic  on how the lcd is build without
 
 ***
 
-### Database
+## Database
 
 ***
 
@@ -93,7 +93,7 @@ This link is an advance version, with the basic  on how the lcd is build without
 
 ***
 
-### LCD 
+## LCD 
 
 ***
 
@@ -111,7 +111,12 @@ This picture is from Ilearn, the pin use in this picture are different from the 
 
 #### LCD Documentation
 
-In this project we will be using the **PORT A**  on your arduino with the following Pin:
+We will be using  a library for our LCD, the library we will be using is from<br>
+https://ilearn.eucsyd.dk/mod/resource/view.php?id=166719<br>
+In case of not having acceces to the skole Ilearn or the page above, the original one is  posted here:<br>
+https://www.avrfreaks.net/projects/lcd?module=Freaks%20Academy&func=viewItem&item_id=997&item_type=project
+
+In this project we will be using the **PORT A**  on Arduino Mega2560 with the following Pin:
 
 - pin 0 for DB7
 - pin 1 for DB6
@@ -125,13 +130,11 @@ In this project we will be using the **PORT A**  on your arduino with the follow
 - [x] DataSheet
 - [x] Interfacing Diagram
 - [x] Wiring diagram
-- [ ] Documentation
-
-
+- [x] Documentation
 
 ***
 
-### Keypad
+## Keypad
 
 ***
 
@@ -155,7 +158,7 @@ In this project we will be using the **PORT A**  on your arduino with the follow
 
 ***
 
-### RFID
+## RFID
 
 ***
 
