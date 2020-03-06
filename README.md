@@ -12,6 +12,7 @@ the form contain:
 2. where it will be use (location).
 3. at what time it were borrow.
 4. then peapol will have to check out when the key is return.
+5. there must be a website with a log where the instructore will be able to check in case of need
 
 ***
 
@@ -70,26 +71,20 @@ this is link referrence will be the closest one to the one we will use on the pr
 https://www.electronicwings.com/avr-atmega/lcd16x2-interfacing-with-atmega16-32 <br>
 This link is an advance version, with the basic  on how the lcd is build without the library  
 
+#### Keypad DATASHEET
+
+https://www.parallax.com/sites/default/files/downloads/27899-4x4-Matrix-Membrane-Keypad-v1.2.pdf
+
 
 ***
+
 ## Start Project
+
 ***
 
 ### Project HIPO Diagram
 
 ![akeyhipo](Billede/AKeyHipo.png)
-
-
-***
-
-## Database
-
-***
-
-#### TODO
-- [ ] Check if there is any DB or AD that have the card record
-- [ ] How to connect to the AD/DB
-
 
 ***
 
@@ -175,4 +170,29 @@ In this project we will be using the **PORT A**  on Arduino Mega2560 with the fo
 - [ ] BLock other user to use card while the key is out
 - [ ] Unblock when the same card is rescaned
 
+***
+
+## Database
+
+***
+
+#### TODO
+
+- [ ] Check if there is any DB or AD that have the card record
+- [ ] How to connect to the AD/DB from  an Arduino
+- [ ] How to read/write to a database with Arduino
+- [ ] Check encoding (hashing and salting)
+- [ ] Look for possibility for best practice (no decryption/decode when data return)
+
+***
+
+## Webiste
+
+***
+#### TODO
+- [ ] research (option) :
+    - possibility to have it on one of our earlier website ex: (astrow) , (intra) or other
+    - if not make a new one
+
+***
 
