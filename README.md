@@ -12,7 +12,6 @@ the form contain:
 2. where it will be use (location).
 3. at what time it were borrow.
 4. then peapol will have to check out when the key is return.
-5. there must be a website with a log where the instructore will be able to check in case of need
 
 ***
 
@@ -71,24 +70,30 @@ this is link referrence will be the closest one to the one we will use on the pr
 https://www.electronicwings.com/avr-atmega/lcd16x2-interfacing-with-atmega16-32 <br>
 This link is an advance version, with the basic  on how the lcd is build without the library  
 
-#### Keypad DATASHEET
-
-https://www.parallax.com/sites/default/files/downloads/27899-4x4-Matrix-Membrane-Keypad-v1.2.pdf
-
 
 ***
-
 ## Start Project
-
 ***
 
 ### Project HIPO Diagram
 
 ![akeyhipo](Billede/AKeyHipo.png)
 
+
 ***
 
-## LCD 
+### Database
+
+***
+
+#### TODO
+- [ ] Check if there is any DB or AD that have the card record
+- [ ] How to connect to the AD/DB
+
+
+***
+
+### LCD 
 
 ***
 
@@ -106,12 +111,7 @@ This picture is from Ilearn, the pin use in this picture are different from the 
 
 #### LCD Documentation
 
-We will be using  a library for our LCD, the library we will be using is from<br>
-https://ilearn.eucsyd.dk/mod/resource/view.php?id=166719<br>
-In case of not having acceces to the skole Ilearn or the page above, the original one is  posted here:<br>
-https://www.avrfreaks.net/projects/lcd?module=Freaks%20Academy&func=viewItem&item_id=997&item_type=project
-
-In this project we will be using the **PORT A**  on Arduino Mega2560 with the following Pin:
+In this project we will be using the **PORT A**  on our arduino Mega2560 with the following Pin:
 
 - pin 0 for DB7
 - pin 1 for DB6
@@ -121,15 +121,19 @@ In this project we will be using the **PORT A**  on Arduino Mega2560 with the fo
 - pin 5 for D/W
 - pin 6 for E
 
+With this library we will be using a 4 bit data instead of a 8 bit that why we will only need to connect 4 pin .
+
 #### TODO
 - [x] DataSheet
 - [x] Interfacing Diagram
 - [x] Wiring diagram
-- [x] Documentation
+- [ ] Documentation
+
+
 
 ***
 
-## Keypad
+### Keypad
 
 ***
 
@@ -153,7 +157,7 @@ In this project we will be using the **PORT A**  on Arduino Mega2560 with the fo
 
 ***
 
-## RFID
+### RFID
 
 ***
 
@@ -170,29 +174,4 @@ In this project we will be using the **PORT A**  on Arduino Mega2560 with the fo
 - [ ] BLock other user to use card while the key is out
 - [ ] Unblock when the same card is rescaned
 
-***
-
-## Database
-
-***
-
-#### TODO
-
-- [ ] Check if there is any DB or AD that have the card record
-- [ ] How to connect to the AD/DB from  an Arduino
-- [ ] How to read/write to a database with Arduino
-- [ ] Check encoding (hashing and salting)
-- [ ] Look for possibility for best practice (no decryption/decode when data return)
-
-***
-
-## Webiste
-
-***
-#### TODO
-- [ ] research (option) :
-    - possibility to have it on one of our earlier website ex: (astrow) , (intra) or other
-    - if not make a new one
-
-***
 
