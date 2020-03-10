@@ -99,11 +99,20 @@ This link is an advance version, with the basic  on how the lcd is build without
 ***
 
 #### TODO 
-- [ ] Option: Python
-- [ ] Option: WPF
+- [x] Option: Python
+    - arduino to pc: 
+        - Have a simple connection to arduino with a module name PySerial
+    - pc to Database:
+        - Can connect to database and manipulate data with (MySQLdb) module
+- [x] Option: WPF
+    - arduino to pc:
+        - The connection is also simple, help with repeating WPF. we will need to install a nuget  to make it work
+    - PC to Database:
+        - just as every program we have done so far
+- [ ] Design
 - [ ] Description
 - [ ] Class Diagram
-
+- [ ] documentation
 
 ***
 
