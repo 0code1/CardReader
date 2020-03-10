@@ -79,7 +79,6 @@ This link is an advance version, with the basic  on how the lcd is build without
 
 ![akeyhipo](Billede/AKeyHipo.png)
 
-
 ***
 
 ### Database
@@ -92,6 +91,45 @@ This link is an advance version, with the basic  on how the lcd is build without
 - [ ] How to connect to the AD/DB
     - [1] Using Python to connect to the Database, and send the sqlstring from there
     - [2] Using A website to send data to the database
+
+***
+
+## WPF / Python
+
+***
+
+#### TODO 
+- [ ] Option: Python
+- [ ] Option: WPF
+- [ ] Description
+- [ ] Class Diagram
+
+
+***
+
+## Website
+
+***
+
+#### TODO
+
+- [x] Option: research. If there is possibility to have direct connection from the arduino to the website
+    - [Solution] 
+    - since the arduino need to have a port connection it is impossible to have the website that running on that specified pc
+    - If the arduino id reader was connect on to the server that could be a solution, but really not best practice 
+- [x] Option: make a website standalone  
+    - [Solution]
+    - The best solution we have left is to make a standalone website that got the connection to the same Database as our
+    - WPF/Python
+- [x] Description
+    - The website  will be done in RAZOR page.
+    - It will have 2 page 
+        - 1 page Login with AD
+        - 2 page an Administration page: where the instrutctor will be able to check the log
+- [ ] Class Diagram
+- [ ] Design
+- [ ] Connection to database
+- [ ] Documentation
 
 ***
 
